@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6038B8</color>
+    <color name="colorPrimaryDark">#6038B0</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="san">#9ed3f4</color>
+    <color name="tranceparent">#faf8f8</color>
+    <color name="purple">#825ee2</color>
+    <color name="green">#db00df</color>
+    <color name="light_purple_v1">#B97EF1</color>
+    <color name="light_purple_v2">#C575F6</color>
+    <color name="tab_btn_bg_color">#c775f8</color>
+</resources>
